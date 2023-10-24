@@ -43,10 +43,17 @@
 
 // export default EarthCanvas;
 
-const Earth(){
-  return
+import React from 'react'
+
+const Computers = () => {
+  return (
+    <div>
+      
+    </div>
+  )
 }
-export default Earth
+
+export default Computers
 
 
 
